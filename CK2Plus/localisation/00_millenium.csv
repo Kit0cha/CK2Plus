@@ -41,34 +41,34 @@ EVTNAME90009010;Creation of the Great Seljuk Empire;Création du Grand Empire Se
 EVTDESC90009010;Tughril-Beg, the leader of the Turkish tribes who conquered Persia, has taken the City of Baghdad and proclaimed himself the ruler of the Great Seljuk Empire.;Tughril-Beg, le meneur des tribus Turques qui ont conquis la Perse, a pris la cité de Baghdad et s'est auto-proclamé dirigeant du Grand Empire Seljoukide.;;;;;;;;;;;;x
 EVTOPTA90009010;Turkish Empire? That cannot last long;Empire Turk ? Ca ne va pas durer longtemps.;;;;;;;;;;;;x
 nick_the_posthumous;the Posthumous;Le Posthume;;;;;;;;;;;;x
-EVTDESC90009016;Your Majesty, a Christian monk by the name of Sigfrid has arrived from the Catholic churches of V�stergotland. He would like to preach at Your court and show You the benefits of Christianity.;Votre Majesté, un moine Chrétien nommé Siegfrid est arrivé des églises Catholiques du Vastergötland. Il voudrait prêcher à votre cour et vous montrer les vertues du Christianisme.;;;;;;;;;;;;x
+EVTDESC90009016;Your Majesty, a Christian monk by the name of Siegfried has arrived from the Catholic churches of V�stergotland. He would like to preach at Your court and show You the benefits of Christianity.;Votre Majesté, un moine Chrétien nommé Siegfried est arrivé des églises Catholiques du Vastergötland. Il voudrait prêcher à votre cour et vous montrer les vertues du Christianisme.;;;;;;;;;;;;x
 EVTOPTA90009016;What can I do?;Que puis-je faire ?;;;;;;;;;;;;x
-EVTDESC90009018;Sigfrid has continued preaching his religion in our capital, and he seems to be gathering a larger and larger audience. After listening to one of his sermons, you have to admit that the new faith may have some advantages...;Siegfrid a continué de prêcher sa religion dans votre capitale, et il rassemble un public de plus en plus large. Après avoir écouté un de ses sermons, vous devez admettre que cette nouvelle foi a peut-être quelques avantages...
+EVTDESC90009018;Siegfried has continued preaching his religion in our capital, and he seems to be gathering a larger and larger audience. After listening to one of his sermons, you have to admit that the new faith may have some advantages...;Siegfried a continué de prêcher sa religion dans votre capitale, et il rassemble un public de plus en plus large. Après avoir écouté un de ses sermons, vous devez admettre que cette nouvelle foi a peut-être quelques avantages...
 EVTOPTA90009018;It is for the good of the realm;C'est pour le bien du royaume;;;;;;;;;;;;x
 EVTOPTB90009018;We shall bow to none!;Nous ne courberons l'échine devant personne !;;;;;;;;;;;;x
 EVTNAME90009019;Swedish King Converts;Le Roi Suédois se convertit;;;;;;;;;;;;x
-EVTDESC90009019;The Pagan King of Sweden has decided to be baptized by Siegfried of Glastonbury and converted to Christianity. It looks like that the era of the Old Gods is over.;;;;;;;;;;;;;x
-EVTOPTA90009019;What's that noise? Oh, that is Valhalla crumbling!;;;;;;;;;;;;x
-EVTDESC90009020;After years of careful planning, Olaf Haraldsson, the last male descendant of Harald Fairhair has raised a large army of exiles, mercenaries and hopefuls, declaring intention to retake the Crown of Norway by force.;;;;;;;;;;;;;x
-EVTOPTA90009020;Well... good luck with that!;;;;;;;;;;;;;x
-EVTDESC90009021;My King! The dreadful Norse ruler of Denmark, vile Sweyn Forkbeard has finished consolidating his gains in Norway and now he has stated that he is going to invade England as many Vikings have done before�;;;;;;;;;;;;;x
-EVTOPTA90009021;Can't they just leave the Anglo-Saxons alone?!;;;;;;;;;;;;;x
-d_dublin;Dyflin;;;;;;;;;;;;;x
-d_dublin_adj;Dyflin;;;;;;;;;;;;;x
-abolish_witan;Abolish the Witanagemot;;;;;;;;;;;;;x
-abolish_witan_desc;We have taken the Crown of England abd we should do our best to preserve it to the next generations. As such we need to get rid of the things that stay in our way. For example the silly Anglo-Saxon custom of interfering in their King's matters.;;;;;;;;;;;;;x
-reinstitute_witan;Resinstitute the Witanagemot;;;;;;;;;;;;;x
-reinstitute_witan_desc;We have expelled the invaders and retaken the English Crown! Now we will do the best if we restore our old customs�;;;;;;;;;;;;;x
-form_the_great_seljuq;Form the Great Seljuq Empire;;;;;;;;;;;;;x
-form_the_great_seljuq_desc;Sultan, we have taken the largest city of the world, the center of wisdom - Baghdad and you can now proclaim yourself the Sultan of Sultans, the ruler of the world! Now even the most wrongheaded clan-leaders believe that you are set to conquer the world in the name of Allah! ;;;;;;;;;;;;;x
-e_seljuk_turks;Great Seljuq Empire;;;;;;;;;;;;;x
-e_seljuk_turks_adj;Seljuq;;;;;;;;;;;;;x
-emperor_turkish;Sultan es-Selatin;;;;;;;;;;;;;x
-emperor_female_turkish;Sultana;;;;;;;;;;;;;x
-bolghar;Bolghar;;;;;;;;;;;;;x
-EVTNAME90009022;Fall of the C�rdoban Caliphate;;;;;;;;;;;;;x
-EVTDESC90009022;A messenger has arrived from Iberia - the last remnants of the Caliphate of C�rdoba has been destroyed. It was the last bastion of the Umayyad Empire, the greatest Muslim realm the world has ever seen.;;;;;;;;;;;;;x
-EVTOPTA90009022;So it goes;;;;;;;;;;;;;x
-EVTNAME90009023;Fall of the Caliphate of Cairo;;;;;;;;;;;;;x
-EVTDESC90009023;A messenger has arrived from Egypt - the last remnants of the Caliphate of Cairo, an Empire created by the Fatimids has fallen to obscurity.;;;;;;;;;;;;;x
-EVTOPTA90009023;They fall like flies�;;;;;;;;;;;;;x
+EVTDESC90009019;The Pagan King of Sweden has decided to be baptized by Siegfried of Glastonbury and converted to Christianity. It looks like that the era of the Old Gods is over.;Le Roi Païen de Suède a décidé d'être baptisé par Siegfried de Glastonbury et s'est converti au Christianisme. Il semblerait que l'époque des Anciens Dieux est terminée.;;;;;;;;;;;;x
+EVTOPTA90009019;What's that noise? Oh, that is Valhalla crumbling!;Quel est ce bruit? Oh, c'est le Valhalla qui s'effondre !;;;;;;;;;;;x
+EVTDESC90009020;After years of careful planning, Olaf Haraldsson, the last male descendant of Harald Fairhair has raised a large army of exiles, mercenaries and hopefuls, declaring intention to retake the Crown of Norway by force.;Après des années de préparations minutieuses, Olaf Haraldsson, le dernier descendant mâle de Harald Hàrfagri, a levé une armée d'exilés,de mercenaires et d'aspirants, et a signalé son intention de reprendre la Couronne de Norvège par la force.;;;;;;;;;;;;x
+EVTOPTA90009020;Well... good luck with that!;Hé bien...Bonne chance !;;;;;;;;;;;;x
+EVTDESC90009021;My King! The dreadful Norse ruler of Denmark, vile Sweyn Forkbeard has finished consolidating his gains in Norway and now he has stated that he is going to invade England as many Vikings have done before�;Mon Roi ! Le terrible Roi Nordique du Danemark, le vil Sweyn Barbe-fourchue a fini de consolider ses possessions en Norvège et il a fait savoir qu'il compte envahir l'Angleterre comme de nombreux Vikings l'ont fait avant lui.;;;;;;;;;;;;x
+EVTOPTA90009021;Can't they just leave the Anglo-Saxons alone?!;Ne peuvent-ils pas laisser les Anglo-Saxons tranquilles ?;;;;;;;;;;;;x
+d_dublin;Dyflin;Dyflin;;;;;;;;;;;;x
+d_dublin_adj;Dyflin;Dyflin;;;;;;;;;;;;x
+abolish_witan;Abolish the Witanagemot;Abolir le Witenagemot;;;;;;;;;;;;x
+abolish_witan_desc;We have taken the Crown of England and we should do our best to preserve it to the next generations. As such we need to get rid of the things that stay in our way. For example the silly Anglo-Saxon custom of interfering in their King's matters.;Nous avons pris la Couronne d'Angleterre et nous devrions faire de notre mieux pour la transmettre aux prochaines générations. Nous devons nous débarasser des choses en travers de notre chemin. Par exemple l'idiote coutume Anglo-Saxonne d'interférer dans les affaires du Roi;;;;;;;;;;;;x
+reinstitute_witan;Resinstitute the Witanagemot;Réinstaurer le Witenagemot;;;;;;;;;;;;x
+reinstitute_witan_desc;We have expelled the invaders and retaken the English Crown! Now we will do the best if we restore our old customs�;Nous avons repoussé les envahisseurs et repris la Couronne Anglaise ! Maintenant,nous allons restaurer nos ancienne coutumes.;;;;;;;;;;;;x
+form_the_great_seljuq;Form the Great Seljuq Empire;Former le Grand Empire Seljoukide;;;;;;;;;;;;x
+form_the_great_seljuq_desc;Sultan, we have taken the largest city of the world, the center of wisdom - Baghdad and you can now proclaim yourself the Sultan of Sultans, the ruler of the world! Now even the most wrongheaded clan-leaders believe that you are set to conquer the world in the name of Allah! ;Sultan, nous avons pris la plus grande cité du monde, le centre de la sagesse - Baghdad, et vous pouvez maintenant vous auto-proclamer le Sultan des Sultans ! Maintenant,même les plus teigneux des clans croient que vous allez conquérir le monde au nom d'Allah !;;;;;;;;;;;;x
+e_seljuk_turks;Great Seljuq Empire;Grand Empire Seljoukide;;;;;;;;;;;;x
+e_seljuk_turks_adj;Seljuq;Seljoukide;;;;;;;;;;;;x
+emperor_turkish;Sultan es-Selatin;Sultan es-Selatin;;;;;;;;;;;;x
+emperor_female_turkish;Sultana;Sultane;;;;;;;;;;;;x
+bolghar;Bolghar;Bulghar;;;;;;;;;;;;x
+EVTNAME90009022;Fall of the C�rdoban Caliphate;Chute du Califat de Cordoue;;;;;;;;;;;;x
+EVTDESC90009022;A messenger has arrived from Iberia - the last remnants of the Caliphate of C�rdoba has been destroyed. It was the last bastion of the Umayyad Empire, the greatest Muslim realm the world has ever seen.;Un messager arrive d'Hispanie - les derniers restants du Califat de Cordoue ont été détruits. C'était le dernier bastion de l'Empire Omeyyade, le plus grand royaume Musulman que le monde a vu.;;;;;;;;;;;;x
+EVTOPTA90009022;So it goes;Ainsi soit-il;;;;;;;;;;;;x
+EVTNAME90009023;Fall of the Caliphate of Cairo;Chute du Califat du Caire;;;;;;;;;;;;x
+EVTDESC90009023;A messenger has arrived from Egypt - the last remnants of the Caliphate of Cairo, an Empire created by the Fatimids has fallen to obscurity.;Un messager est arrivé d'Égypte - les derniers restants du Califat du Caire, un Empire crée par les Fatimides est tombé dans l'obscurité.;;;;;;;;;;;;x
+EVTOPTA90009023;They fall like flies�;Ils tombent comme des mouches;;;;;;;;;;;;x
